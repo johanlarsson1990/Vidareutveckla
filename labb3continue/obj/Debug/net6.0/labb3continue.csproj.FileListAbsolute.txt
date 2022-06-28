@@ -1,0 +1,15 @@
+C:\Users\johan\source\repos\continue\labb3continue\bin\Debug\net6.0\labb3continue.exe
+C:\Users\johan\source\repos\continue\labb3continue\bin\Debug\net6.0\labb3continue.deps.json
+C:\Users\johan\source\repos\continue\labb3continue\bin\Debug\net6.0\labb3continue.runtimeconfig.json
+C:\Users\johan\source\repos\continue\labb3continue\bin\Debug\net6.0\labb3continue.dll
+C:\Users\johan\source\repos\continue\labb3continue\bin\Debug\net6.0\labb3continue.pdb
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.AssemblyInfo.cs
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.dll
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\refint\labb3continue.dll
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.pdb
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\labb3continue.genruntimeconfig.cache
+C:\Users\johan\source\repos\continue\labb3continue\obj\Debug\net6.0\ref\labb3continue.dll
